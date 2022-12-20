@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/akshaydeodare/hackswag/main/test.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/akshaydeodare/hackswag/main/test.yaml",
+            "name": "Foo"
+        }
+    ]
+}
