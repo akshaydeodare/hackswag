@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/akshaydeodare/hackswag/main/test.yaml",
+    "url": "https://raw.githubusercontent.com/akshaydeodare/hackswag/main/creds.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/akshaydeodare/hackswag/main/test.yaml",
+            "url": "https://raw.githubusercontent.com/akshaydeodare/hackswag/main/creds.yaml",
             "name": "Foo"
         }
     ]
